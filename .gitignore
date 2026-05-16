@@ -1,0 +1,25 @@
+# Executable files
+*.exe
+*.out
+*.dll
+*.so
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# IDE and build artifacts
+.vscode/
+*.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.user
+*.pro.user
+
+# Temporary files
+*.tmp
+*.log
